@@ -1,0 +1,7 @@
+C:\Users\erick304\Desktop\Videos para estudiar\Clean Code\Video 1 Nodos\FizzBuzzKata\FizzBuzzKata\bin\Debug\FizzBuzzKata.dll
+C:\Users\erick304\Desktop\Videos para estudiar\Clean Code\Video 1 Nodos\FizzBuzzKata\FizzBuzzKata\bin\Debug\FizzBuzzKata.pdb
+C:\Users\erick304\Desktop\Videos para estudiar\Clean Code\Video 1 Nodos\FizzBuzzKata\FizzBuzzKata\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\erick304\Desktop\Videos para estudiar\Clean Code\Video 1 Nodos\FizzBuzzKata\FizzBuzzKata\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\erick304\Desktop\Videos para estudiar\Clean Code\Video 1 Nodos\FizzBuzzKata\FizzBuzzKata\obj\Debug\FizzBuzzKata.csprojResolveAssemblyReference.cache
+C:\Users\erick304\Desktop\Videos para estudiar\Clean Code\Video 1 Nodos\FizzBuzzKata\FizzBuzzKata\obj\Debug\FizzBuzzKata.dll
+C:\Users\erick304\Desktop\Videos para estudiar\Clean Code\Video 1 Nodos\FizzBuzzKata\FizzBuzzKata\obj\Debug\FizzBuzzKata.pdb
